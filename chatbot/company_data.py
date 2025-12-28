@@ -1,4 +1,4 @@
-# Company-specific information
+# Company specific information
 
 COMPANY_INFO = {
     "name": "Tech Solutions",
