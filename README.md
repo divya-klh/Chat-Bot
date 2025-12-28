@@ -37,7 +37,7 @@ The project is organized as follows:
 │   ├── chat_logic.py       # Core logic for finding replies
 │   ├── company_data.py     # Stores company specific information
 │   └── response_rules.py   # Defines the chatbot's conversational rules
-└── README.md               # This file
+└── README.md               
 ```
 
 ## Exit Commands
