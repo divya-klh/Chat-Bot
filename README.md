@@ -35,14 +35,14 @@ The project is organized as follows:
 ├── requirements.txt        # Shows that no external libraries are needed
 ├── chatbot/
 │   ├── chat_logic.py       # Core logic for finding replies
-│   ├── company_data.py     # Stores company-specific information
+│   ├── company_data.py     # Stores company specific information
 │   └── response_rules.py   # Defines the chatbot's conversational rules
 └── README.md               # This file
 ```
 
 ## Exit Commands
 
-To end the chat session, you can555 use any of the following commands:
+To end the chat session, you can use any of the following commands:
 
 -   `exit`
 -   `quit`
